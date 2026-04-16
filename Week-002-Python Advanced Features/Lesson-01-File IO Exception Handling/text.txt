@@ -1,0 +1,5 @@
+Hello world, hello everyone!
+This is a test file for counting words.
+Python is great for text processing.
+Let's count how many times each word appears.
+Hello, Python, Python, and Python again!
